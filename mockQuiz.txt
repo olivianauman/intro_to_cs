@@ -1,0 +1,18 @@
+3
+3
+What is 12 divided by 6?
+2
+3
+1
+2
+What is your last name?
+Smith
+Jones
+Nauman
+Nauman
+How many legs do dogs have?
+1
+4
+8
+4
+

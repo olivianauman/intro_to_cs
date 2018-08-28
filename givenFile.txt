@@ -1,0 +1,23 @@
+3	
+5	
+How	many	states	are	there	in	the	United	States?	
+30	
+49	
+50	
+51	
+52	
+3	
+Which	of	the	following	cities	is	the	capital	of	Iowa?	
+Springfield	
+Tallahassee	
+Cedar	Rapids	
+Cedar	Falls	
+Des	Moines	
+5	
+Which	of	the	following	television	shows	had	a	character	named	“Hawkeye”?	
+The	Brady	Bunch	
+M*A*S*H	
+Doctor	Who	
+The	X	Files	
+Lost	in	Space	
+2
